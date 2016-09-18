@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    tools:context="com.archer.taskstatusindicator.MainActivity">
+
+    <View
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <com.archer.taskstatusindicator.TSIndicator
+        android:id="@+id/ts"
+    android:paddingLeft="50dp"
+    android:paddingRight="50dp"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        android:background="@color/p5_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <!--<attr name="circleNum" format="integer"/>-->
+    <!--<attr name="taskStatus" format="integer"/>-->
+    <!--<attr name="countDownStr" format="string"/>-->
+    <!--<attr name="textColor" format="color"/>-->
+    <!--<attr name="circleColor" format="color"/>-->
+    <!--<attr name="countDownColor" format="color"/>-->
+    <!--<attr name="textSize" format="dimension"/>-->
+    <!--<attr name="countDownSize" format="dimension" />-->
+</LinearLayout>

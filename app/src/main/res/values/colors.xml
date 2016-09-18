@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+    <!-- 头部颜色 -->
+    <color name="head_color">#6dbdff</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <!-- 灰色 -->
+    <color name="gray">#aaaaaa</color>
+    <color name="gray_new">#CFCDC9</color>
+    <!-- 棕色 -->
+    <color name="brown">#736357</color>
+    <!-- 淡蓝 -->
+    <color name="light_blue">#6593cb</color>
+    <!-- 字体颜色 -->
+    <color name="china">#432810</color>
+    <!-- 验证码颜色 -->
+    <color name="indentifying">#CCC9CE</color>
+    <!-- 阴影颜色 -->
+    <color name="color_shadow">#c6c6c6</color>
+    <color name="textcolor">#A2A2A2</color>
+    <color name="getIdentifying">#CCC9CE</color>
+    <color name="default_shadow_color">#88757575</color>
+    <color name="default_fill_color">#ffffff</color>
+    <!-- “到” -->
+    <color name="color_to">#68B1EA</color>
+    <!-- 背景灰 -->
+    <color name="background_color">#F0F0F0</color>
+    <color name="blue">#448BCB</color>
+
+    <!-- 边框灰 -->
+    <color name="border_gray">#DEDEDE</color>
+
+    <!-- 字体灰 -->
+    <color name="person_gray">#858585</color>
+    <color name="person_bg">#edeae3</color>
+    <color name="font_gray">#A2A2A2</color>
+    <!-- 引号黄 -->
+    <color name="font_yellow">#FFFF00</color>
+    <color name="asset_yellow">#ffd600</color>
+
+    <!-- 背景颜色 -->
+    <color name="bg_color">#F0F0F0</color>
+    <color name="bg_color_deepgray">#EEEEEE</color>
+
+    <!-- 字体橙 -->
+    <color name="txt_orange">#df745e</color>
+    <!-- item_gray -->
+    <color name="item_gray">#CBCBCB</color>
+
+    <!-- 棕色 -->
+    <color name="font_zong">#432810</color>
+    <color name="text_xing">#808080</color>
+
+    <!-- release_page -->
+    <color name="top_linebg_blue">#4AC3FF</color>
+    <color name="top_linebg_gray">#CBCBCB</color>
+    <color name="title_bg">#28A0DC</color>
+    <color name="rp_title">#432810</color>
+    <color name="line_bg">#C9C9C9</color>
+    <color name="release2_paybg">#E4F3FF</color>
+    <color name="font_blue">#269BD8</color>
+    <color name="font_orange">#fc6336</color>
+    <color name="item_bg_blue">#E4F3FF</color>
+    <color name="release_deepblock">#EFEDE6</color>
+
+    <!-- 黄色 -->
+    <color name="left_yellow">#FCFF00</color>
+
+    <!-- found_city -->
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_gray_light">#99C9C9C9</color>
+    <color name="color_black_light">#99000000</color>
+
+    <!-- 族群 -->
+    <color name="group_backcolor">#F2F2F2</color>
+    <color name="itemColor">#ffffff</color>
+
+    <!-- 进行中的任务 -->
+    <color name="grab_purple">#605ca8</color>
+    <color name="release_blue">#6ebeff</color>
+
+
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="t1">#362f2d</color>
+    <color name="t2">#5a5a5a</color>
+    <color name="t3">#858585</color>
+    <color name="t4">#aaaaaa</color>
+    <color name="t5">#fffcf5</color>
+    <color name="t6">#ace7ff</color>
+    <color name="t7">#ffe2da</color>
+    <color name="t8_orange">#fc6336</color>
+    <color name="t8_green">#598527</color>
+    <color name="t8_blue">#6ebeff</color>
+    <color name="t8_gray">#858585</color>
+    <color name="b1">#edeae3</color>
+    <color name="b2">#fffcf5</color>
+    <color name="c1">#007de3</color>
+    <color name="c2">#6ebeff</color>
+    <color name="c3">#8781bd</color>
+    <color name="c4">#fbb317</color>
+    <color name="c5">#1e1310</color>
+    <color name="c6">#fc6336</color>
+    <color name="c7">#006372</color>
+    <color name="line">#c5c5c5</color>
+
+    <color name="mask_color">#88888888</color>
+
+
+
+    <!-- 1.4版本新版颜色 -->
+
+    <!-- 背景色 -->
+    <!-- 全局色 -->
+    <color name="c1_color">#3D86F8</color>
+    <color name="c2_color">#7EADFF</color>
+    <color name="c4_color">#FDB82C</color>
+    <color name="c6_color">#FF5D5C</color>
+    <color name="c7_color">#00CCFF</color>
+    <color name="c8_color">#4D4948</color>
+    <color name="c9_color">#362F2D</color>
+    <color name="c10_color">#858585</color>
+    <color name="c11_color">#AAAAAA</color>
+    <color name="c12_color">#F2F2F2</color>
+    <color name="line_color">#C5C5C5</color>
+
+    <!-- 字体颜色 -->
+    <color name="t1_color">#362F2D</color>
+    <color name="t2_color">#5A5A5A</color>
+    <color name="t3_color">#858585</color>
+    <color name="t4_color">#AAAAAA</color>
+    <color name="t5_color">#FFFFFF</color>
+    <color name="t6_color">#D3EBFF</color>
+    <color name="t7_color">#FEFFD3</color>
+    <color name="t8_orange_color">#FC8536</color>
+    <color name="t8_green_color">#48CFAE</color>
+    <color name="t8_gray_color">#858585</color>
+
+    <!-- 首页人物TAB页任务状态颜色-->
+    <color name="doing">#3d86f8</color>
+
+
+    <!-- 1.4.0.1  颜色 -->
+
+
+    <!-- 背景色 -->
+    <color name="b1_color">#f2f2f2</color>
+    <color name="b2_color">#ffffff</color>
+
+    <!-- 全局色 -->
+    <color name="p1_color">#3d86f8</color>
+    <color name="p2_color">#609cf9</color>
+    <color name="p3_color">#ff5d5c</color>
+    <color name="p4_color">#00b930</color>
+    <color name="p5_color">#444444</color>
+    <color name="p6_color">#888888</color>
+    <color name="p7_color">#bbbbbb</color>
+    <color name="p8_color">#dddddd</color>
+    <color name="p9_color">#ffffff</color>
+
+    <!-- 价格线颜色 -->
+    <color name="line1_color">#f2f2f2</color>
+    <color name="line2_color">#dddddd</color>
+    <color name="line3_color">#dddddd</color>
+
+</resources>

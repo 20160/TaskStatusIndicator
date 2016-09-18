@@ -1,0 +1,21 @@
+<resources>
+    <declare-styleable name="TSIndicator">
+        <attr name="completeTextColor" format="color"/>
+        <attr name="pendingTextColor" format="color"/>
+        <attr name="completeCircleColor" format="color"/>
+        <attr name="pendingCircleColor" format="color"/>
+        <attr name="countDownColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="countDownSize" format="dimension" />
+
+        <!-- 圆环和顶部提示的距离 -->
+        <attr name="circlePadding" format="dimension" />
+        <!-- 倒计时和圆环之间的距离 -->
+        <attr name="countDownStrPadding" format="dimension" />
+        <!-- 任务提示与倒计时之间的距离 -->
+        <attr name="tipStrPadding" format="dimension" />
+
+
+
+    </declare-styleable>
+</resources>
